@@ -1,5 +1,5 @@
 /*
-gopng reads in Images and writes out PNGs.
+PNGo reads in Images and writes out PNGs.
 */
 package main
 
